@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="Assets/benchmark.png" width="700" alt="Benchmark">
-  <br><em>Benchmark: CPython vs FormulaPy (Tests folder)</em>
+  <br><em>Benchmark: CPython vs FormulaPy (final.py)</em>
 </p>
 
 **FormulaPy** solves this problem. It:
