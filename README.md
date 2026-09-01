@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="assets/logo.png" width="256" alt="FormulaPy">
+    <img src="Assets/logo.png" width="256" alt="FormulaPy">
   </p>
 
   <br>
@@ -18,7 +18,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/2M12/FormulaPy?style=for-the-badge)
 
   <p align="center">
-    <img src="assets/thumbnail.png" width="700" alt="FormulaPy">
+    <img src="Assets/thumbnail.png" width="700" alt="FormulaPy">
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 **Python** is slow. Very slow on loops. A simple `for` with 50 million iterations takes seconds.
 
 <p align="center">
-  <img src="assets/benchmark.png" width="700" alt="Benchmark">
+  <img src="Assets/benchmark.png" width="700" alt="Benchmark">
   <br><em>Benchmark: CPython vs FormulaPy (Tests folder)</em>
 </p>
 
@@ -110,12 +110,12 @@
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="assets/main_menu.png" width="700" alt="Main menu">
+  <img src="Assets/main_menu.png" width="700" alt="Main menu">
   <br><em>Main menu – FormulaPy help</em>
 </p>
 
 <p align="center">
-  <img src="assets/run_script.png" width="700" alt="Running script">
+  <img src="Assets/run_script.png" width="700" alt="Running script">
   <br><em>Running a script with JIT and daemon</em>
 </p>
 
